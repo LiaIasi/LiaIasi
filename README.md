@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Carmen
+### Hi there! 👋 I'm Carmen, but you can call me Lia
 🎓 Economist by background, but now on a new path: learning Web Development.  
 💻 I'm diving into HTML, CSS, and JavaScript with passion and curiosity.  
 🚀 From the very first lines of code, I knew I wanted to explore more.
